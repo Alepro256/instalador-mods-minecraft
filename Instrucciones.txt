@@ -1,0 +1,4 @@
+1-Pon los mods en la carpeta "Mods"
+2-Abre Instalar.cmd
+3-Abre minecraft con Forge o Fabric (Depende de los mods).
+4-¡Listo!
